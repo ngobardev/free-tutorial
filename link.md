@@ -11,3 +11,4 @@
 
 **Javascript <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" width="25" height="25"/>**
 - js syntax [here](https://www.w3schools.com/js/js_syntax.asp)
+- js variable [here](https://www.w3schools.com/js/js_variables.asp)
